@@ -20,7 +20,7 @@ const AppClima = () => {
         ) : noResultado ? (
           <p>{noResultado}</p>
         ) : (
-          <p>El clima se va a mostrar aquí</p>
+          <p>El clima se mostrará aquí</p>
         )}
       </main>
     </>
